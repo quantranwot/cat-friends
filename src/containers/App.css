@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+h1 {
+  margin: 2rem auto;
+}
+
+.main-title {
+  font-family: "Dancing Script", cursive;
+}
