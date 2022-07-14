@@ -3,7 +3,7 @@ import Card from "./Card";
 
 const CardList = ({ cats }) => {
   // if (true) {
-  //   throw new Error("hahaha");
+  //   throw new Error("Test Error");
   // }
 
   return (
